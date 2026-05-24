@@ -11,7 +11,7 @@ Mahasiswa yang tertarik pada dunia teknologi terutama:
 Saya senang mempelajari teknologi baru dan membangun project yang dapat membantu monitoring data secara real-time dan interaktif.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python
 PHP
 MySQL
